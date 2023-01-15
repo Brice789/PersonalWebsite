@@ -1,10 +1,10 @@
 ---
-date: '2018-04-01'
+date: '2022-08-01'
 title: 'Studio Developer'
-company: 'Scout'
-location: 'Northeastern University'
-range: 'January - April 2018'
-url: 'https://web.northeastern.edu/scout/'
+company: 'Staar'
+location: 'Paris'
+range: 'June 2022 - Present'
+url: ''
 ---
 
 - Worked with a team of three designers to build a marketing website and e-commerce platform for [blistabloc](https://blistabloc.com), an ambitious startup originating from Northeastern
