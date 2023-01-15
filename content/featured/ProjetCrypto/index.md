@@ -4,6 +4,7 @@ title: 'Cryptography Project'
 cover: './crypto.jpeg'
 github: 'https://github.com/Brice789/Projet-de-Cryptographie'
 external: 'https://github.com/Brice789/Projet-de-Cryptographie'
+cta: 'https://github.com/Brice789/Kanap--Projet'
 tech:
   - Python
   - Vs Code

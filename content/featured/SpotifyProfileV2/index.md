@@ -1,9 +1,9 @@
 ---
 date: '2'
 title: 'Build a WebSite from A to Z'
-cover: './p.png'
+cover: './a.png'
+github: 'https://github.com/Brice789/Kanap--Projet'
 external: 'https://github.com/Brice789/Kanap--Projet'
-cta: 'https://github.com/Brice789/Kanap--Projet'
 tech:
   - React
   - Javascrpit
