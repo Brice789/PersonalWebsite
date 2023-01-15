@@ -136,16 +136,17 @@ const About = () => {
           <div>
             <p>
               Hello! My name is Brice and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2020 when I decided to try editing a
-              website usefull for all — turns out hacking together a custom reblog button taught me
-              a lot about HTML &amp; CSS!
+              interest in web development started back in 2018 when I decided to try editing a
+              website usefull for all — turns out that hacking is very fun and taught me a lot on
+              very different fields. Build a custom reblog button taught me a lot about Python, HTML
+              &amp; CSS and way more!
             </p>
 
             <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
               {/* <a href="https://us.mullenlowe.com/">an advertising</a>,{' '} */}
-              <a href="https://starry.com/">a start-up, Staar witch is outgoing </a>,{' '}
-              <a href="https://group.bnpparibas">a huge corporation</a>, and{' '}
+              <a href="https://starry.com/">a start-up, Staar witch is outgoing </a>, and{' '}
+              <a href="https://group.bnpparibas">a huge corporation</a>, BNP Paribas with I love.
               {/* <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
               main focus these days is building accessible, inclusive products and digital
               experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
