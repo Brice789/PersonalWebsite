@@ -65,9 +65,9 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered and
-        secure tools at at{' '}
+        I’m a Cybersécurity engineer specializing in building (and occasionally designing) extremely
+        safe digital experiences. Currently, I’m focused on creating accessible, human-centered and
+        secure tools at{' '}
         <a href="https://group.bnpparibas" target="_blank" rel="noreferrer">
           BNP Paribas
         </a>

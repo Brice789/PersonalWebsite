@@ -2,8 +2,8 @@
 date: '1'
 title: 'Cryptography Project'
 cover: './crypto.jpeg'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+github: 'https://github.com/Brice789/Projet-de-Cryptographie'
+external: 'https://github.com/Brice789/Projet-de-Cryptographie'
 tech:
   - Python
   - Vs Code
