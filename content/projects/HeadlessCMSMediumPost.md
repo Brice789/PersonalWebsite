@@ -1,15 +1,15 @@
 ---
 date: '2019-11-12'
-title: 'Building a Headless Mobile App CMS From Scratch'
-github: ''
-external: 'https://medium.com/stories-from-upstatement/building-a-headless-mobile-app-cms-from-scratch-bab2d17744d9'
+title: 'Building a Front End Website for a true restaurant!'
+github: 'https://github.com/Brice789/Projet-3--OhMyFood'
+external: 'https://brice789.github.io/Projet-3--OhMyFood/'
 tech:
   - Node
   - Express
   - Firebase
   - Vue
-company: 'Upstatement'
+company: ''
 showInProjects: true
 ---
 
-Find out how we built a custom headless CMS with Node, Express, and Firebase for a project at Upstatement
+In static, create a website that meets the requirements of a restaurant near Paris
