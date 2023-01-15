@@ -75,8 +75,6 @@ const Hero = () => {
       </p>
     </>
   );
-
-
   const items = [one, two, three, four];
 
   return (
