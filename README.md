@@ -19,7 +19,7 @@
   </a>
 </p>
 
-![demo](https://github.com/Brice789/PersonalWebsite/src/images/demo2.png)
+![demo](https://github.com/Brice789/PersonalWebsite/blob/2905bbcf2d04461045d6e4952265d9c4f9109f96/readmedemo.PNG)
 
 ## 🚨 Forking this repo (please read!)
 
