@@ -12,7 +12,7 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://linkedin.com/kireche-brice1',
+      url: 'https://linkedin.com/in/kireche-brice',
     },
     {
       name: 'Codepen',
